@@ -63,6 +63,8 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 ```bash
 git clone https://github.com/My-45/Ilac-Takip-Sistemi.git
 cd Ilac-Takip-Sistemi
+cd iot-proje
+cd ilac_takip
 flutter pub get
 flutter run
 
