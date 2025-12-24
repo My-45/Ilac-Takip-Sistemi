@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "316215060536",
+    "firebase_url": "https://ilac-takip-sistemi-38c3d-default-rtdb.firebaseio.com",
+    "project_id": "ilac-takip-sistemi-38c3d",
+    "storage_bucket": "ilac-takip-sistemi-38c3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316215060536:android:85ced8996ee66852ae5ecd",
+        "android_client_info": {
+          "package_name": "com.example.ilac_takip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeBFpKF8_ok2C1jA_UYQco1ZfSuhLe9Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316215060536:android:7226aa706b558462ae5ecd",
+        "android_client_info": {
+          "package_name": "ilac_takip.sistemi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeBFpKF8_ok2C1jA_UYQco1ZfSuhLe9Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

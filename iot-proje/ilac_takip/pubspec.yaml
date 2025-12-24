@@ -1,0 +1,38 @@
+name: ilac_takip # projenin adı
+description: "A new Flutter project." # projenin açıklaması
+publish_to: 'none'
+
+#proje sürümü
+version: 1.0.0+1
+#ortam bölümü
+environment:
+  
+  sdk: '>=3.10.0 <4.0.0' 
+
+#bağımlılıklar
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase paketleri 
+  firebase_core: ^4.2.1  
+  firebase_database: ^12.1.0
+  firebase_auth: ^6.1.2 
+  
+  # Yardımcı paketler 
+  intl: ^0.20.2 
+  provider: ^6.1.2 
+  
+  cupertino_icons: ^1.0.8
+
+#geliştirme bağımlılıkları 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^6.0.0 
+
+# flutter ayarları
+flutter:
+  uses-material-design: true
